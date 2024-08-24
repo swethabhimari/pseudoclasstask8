@@ -12,6 +12,10 @@
     font-style: initial;
     text-decoration: none;
 }
+.a:hover{
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
 .p1{
 background-color: whitesmoke;
 text-align: center;
